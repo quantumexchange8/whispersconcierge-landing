@@ -257,7 +257,7 @@
                     </div>
                     <!-- launch countdown end -->
                     <!-- newsletter form start -->
-                    <div id="subscribe-form">
+                    <!-- <div id="subscribe-form">
                         <h4>
                             Subscribe today to<br>
                             receive the latest news
@@ -274,7 +274,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                     <!-- newsletter form end -->
                 </div>
                 <!-- center container end -->
