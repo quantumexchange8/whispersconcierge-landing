@@ -229,7 +229,7 @@
                     </div>
                     <!-- upper content end -->
                     <!-- launch countdown start -->
-                    <div id="countdown-wrapper">
+                    <!-- <div id="countdown-wrapper">
                         <div id="countdown-wrap">
                             <ul id="countdown">
                                 <li>
@@ -254,7 +254,7 @@
                                 </li>
                             </ul>
                         </div>
-                    </div>
+                    </div> -->
                     <!-- launch countdown end -->
                     <!-- newsletter form start -->
                     <!-- <div id="subscribe-form">
